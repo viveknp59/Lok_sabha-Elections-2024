@@ -38,6 +38,8 @@ The objective of this project is to conduct an in-depth analysis of the election
 **📑 Steps Followed**
 
 **Data Collection**: Obtained dataset from Kaggle.
+![image](https://github.com/viveknp59/Lok_sabha-Elections-2024/assets/141654417/c10dd77d-2c1d-4df3-a378-ad81084cbf1a)
+
 
 **Data Preprocessing and EDA**: Cleaned data and performed exploratory data analysis.
 
